@@ -1,0 +1,20 @@
+{
+	"snow_url":"http://ascensionprod.service-now.com",
+	"username":"windowsregistry::HKEY_LOCAL_MACHINE\\SOFTWARE\\SNOWcreateincident::username",
+	"password":"windowsregistry::HKEY_LOCAL_MACHINE\\SOFTWARE\\SNOWcreateincident::password",
+	"caller":"wfsi\\a78808",
+	"category":"software",
+	"subcategory":"corporate application",
+	"configuration_item":"Lab - WIGLE - APP012527",
+	"assignment_group":"LAB AND PLUS",
+	"application_ci":"Lab - WIGLE - APP012527",
+	"location":"Selenium Headless Chrome automaton",
+	"impact":"4",
+	"urgency":"4",
+	"priority":"4",
+	"assigned_to":"Brown, Matthew",
+	
+	"short_description":"Please ignore this! This is a test incident",
+
+	"worknotes":"This is a test work note, automatically generated."
+}
